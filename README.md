@@ -1,6 +1,6 @@
 # yes_no_app
 
-A new Flutter project. This app connets to a service, who's provide a random URL for generate an meme image.
+A new Flutter project. This app connets to a service, who's provide a random URL for generate a meme image.
 
 ## Getting Started
 
