@@ -1,6 +1,10 @@
 # yes_no_app
 
 A new Flutter project. This app connets to a service, who's provide a random URL for generate a meme image.
+V1: Screen design
+v2: service implementation
+v3: conection with services
+v4: testing and modificafition
 
 ## Getting Started
 
